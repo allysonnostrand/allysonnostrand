@@ -3,6 +3,6 @@
 - 😄 Pronouns: She/her
 - 🌱 I'm currently learning React.
 - 📫 You can reach me at allyson.nostrandd@gmail.com if you have any questions.
-- :star2: Check out my [Resume](https://drive.google.com/file/d/1RL_iHVA8p0kWARmMAvgv_GySDpAa_XP9/view?usp=sharing)! :star2:
+- :star2: Check out my [Resume](https://docs.google.com/document/d/1Fm29E6_Qp1CNowITDCihyqPDRAMC2uRX7rqqRj8Ir00/edit?usp=sharing)! :star2:
 
 # :art: :tulip: :video_game: :evergreen_tree: :book: :turtle:
